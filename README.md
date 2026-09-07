@@ -56,6 +56,7 @@ My interests centre on AI, computer vision, and IoT, including running models on
   </td>
   </tr>
 </table>
+
 **GitHub contributions**
 
 <p align="center">
