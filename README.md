@@ -21,42 +21,41 @@ I'm Addy, an AI development and engineering enthusiast. I keep up with new AI mo
 
 My interests centre on AI, computer vision, and IoT, including running models on edge devices and connecting them to web applications. I've worked with model optimisation using ONNX and TensorRT on Jetson Nano, alongside LLM applications and machine learning workflows.
 
-**My toolkit**
-
 <table>
 <tr>
-  <td width="33%" align="center" valign="top">
-  <h4>AI & Vision</h4>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=5" height="48" alt="Python, PyTorch, TensorFlow, scikit-learn, and OpenCV" />
-  <br /><br />
-  <strong>Core</strong><br />
-  Python, PyTorch, TensorFlow, scikit-learn, OpenCV
-  </td>
-  <td width="33%" align="center" valign="top">
-  <h4>Web & Apps</h4>
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,flutter,supabase&theme=dark&perline=5" height="48" alt="TypeScript, React, Next.js, Flutter, and Supabase" />
-  <br /><br />
-  <strong>Core</strong><br />
-  TypeScript, React, Next.js, Flutter, Supabase
-  </td>
-  <td width="33%" align="center" valign="top">
-  <h4>Embedded & IoT</h4>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,git,docker&theme=dark&perline=4" height="48" alt="Arduino, C++, Git, and Docker" />
-  <br /><br />
-  <strong>Core</strong><br />
-  Arduino, ESP32 C++, Git, Docker, MQTT
-  </td>
-</tr>
-<tr>
-  <td align="center" valign="top">
-  <sub><strong>Also</strong><br />YOLO, ONNX, TensorRT, Transformers, LLM integrations, pandas, NumPy</sub>
-  </td>
-  <td align="center" valign="top">
-  <sub><strong>Also</strong><br />Streamlit, Tailwind CSS, PostgreSQL</sub>
-  </td>
-  <td align="center" valign="top">
-  <sub><strong>Also</strong><br />Jetson Nano, Wi-Fi modules, Blynk, PlatformIO</sub>
-  </td>
+<td width="33%" align="center" valign="top">
+<h4>AI & Vision</h4>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=5" height="48" alt="Python, PyTorch, TensorFlow, scikit-learn, and OpenCV" />
+<br /><br />
+<strong>Core</strong><br />
+Python, PyTorch, TensorFlow,<br />
+scikit-learn, OpenCV
+<br /><br />
+<sub><strong>Also</strong><br />
+YOLO, ONNX, TensorRT, Transformers, LLM integrations, pandas, NumPy</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h4>Web & Apps</h4>
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,flutter,supabase&theme=dark&perline=5" height="48" alt="TypeScript, React, Next.js, Flutter, and Supabase" />
+<br /><br />
+<strong>Core</strong><br />
+TypeScript, React, Next.js,<br />
+Flutter, Supabase
+<br /><br />
+<sub><strong>Also</strong><br />
+Streamlit, Tailwind CSS, PostgreSQL</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h4>Embedded & IoT</h4>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,git,docker&theme=dark&perline=4" height="48" alt="Arduino, C++, Git, and Docker" />
+<br /><br />
+<strong>Core</strong><br />
+Arduino, ESP32 C++, Git,<br />
+Docker, MQTT
+<br /><br />
+<sub><strong>Also</strong><br />
+Jetson Nano, Wi-Fi modules, Blynk, PlatformIO</sub>
+</td>
 </tr>
 </table>
 
