@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abang-addy-farhan-abang-kilat-330418301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://onex-tech.com/addy/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge" alt="Portfolio website" /></a>
+  <a href="https://onex-tech.com/team/addy"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge" alt="Portfolio website" /></a>
   <a href="mailto:abangaddyfarhan@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge" alt="Email Addy" /></a>
   <a href="https://github.com/NeonicFlames"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 </p>
